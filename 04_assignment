@@ -1,0 +1,29 @@
+Html Tag;
+   Heading tags is used to mark heading in html.
+   form h1 to h6, we have tags for the most important
+   to the least important heading.
+
+   <h1> Most important heading </h1>
+   <h2> Another heading h2 </h2>
+   <h3> Another heading h3 </h3>
+   <h4> Another heading h2 </h4>
+   <h5> Another heading h2 </h5>
+   <h6> Another heading h2 </h6>   
+     
+   NOTES;
+     we should not use html heading to make text thick oor bold
+
+     Html Elements;
+          we can add elements inside the body tag to
+          define the page layout.
+
+          Everything froom starting to the ending tag 
+          <body>---Opening tag
+            --Content---
+          </body>
+Html Attributes;
+     used to add more information coorrespondig too an htmltag
+     Example;
+         <a href ="https://pwonlineclass/">pwclass</a>
+
+        
